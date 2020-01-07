@@ -16,9 +16,16 @@ function retrieveProvinces() {
 }
 
 function retrieveDistricts(provinceCode) {
-    return axios({
-        url: `${VN_GIS_SOURCE_URL}/Map/GetTree?pid=${provinceCode}`,
-        method: 'GET'
+    return new Promise((resolve, reject) => {
+        axios({
+            url: `${VN_GIS_SOURCE_URL}/Map/GetTree?pid=${provinceCode}`,
+            method: 'GET'
+        }).then(response => {
+            resolve({ code: provinceCode, data: response.data });
+        }).catch(error => {
+            console.log(`error: ${error}`);
+            reject(error);
+        });
     });
 }
 /**
@@ -28,18 +35,26 @@ function retrieveDistricts(provinceCode) {
  * @param {*} areaCode 
  */
 function retrieveAreaGeo(areaCode) {
-    return axios({
-        url: VN_GIS_SOURCE_URL + "/Region/GetGeoJson",
-        method: 'POST',
-        data: qs.stringify({
-            areaCode,
-            '__RequestVerificationToken': 'rMHkGBb9L3jnGqsW7i9MylGIge1A4s4OW-CdF8HqECwTfiQKXv6OmMK-pIREeLADZMc1WnAbhe-wuMd5LkjdRqXe-f09gSPdGiSRLw44RjA1'
-        }),
-        headers: {
-            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-            Cookie: 'ASP.NET_SessionId=avhmh5cbvc1efvbwozna4jth; .BaseMap=L0Jhc2VNYXAve3p9L3t4fS97eX0ucG5n; .MinMap=L0Jhc2VSZWYve3p9L3t4fS97eX0ucG5n; __RequestVerificationToken=Ycmm_wRurhK87WjKfW6YYYWVZh5D4uboytnQb3afLMjUVlJ46eGeqzyPA007mhbAbXgBlgW-Jb3OIUJ7LnQb1ozlFuFoOZvk4hbmeuQIP7s1; .Region='
-        }
-    })
+    return new Promise((resolve, reject) => {
+        axios({
+            url: VN_GIS_SOURCE_URL + "/Region/GetGeoJson",
+            method: 'POST',
+            data: qs.stringify({
+                areaCode,
+                '__RequestVerificationToken': 'rMHkGBb9L3jnGqsW7i9MylGIge1A4s4OW-CdF8HqECwTfiQKXv6OmMK-pIREeLADZMc1WnAbhe-wuMd5LkjdRqXe-f09gSPdGiSRLw44RjA1'
+            }),
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+                Cookie: 'ASP.NET_SessionId=avhmh5cbvc1efvbwozna4jth; .BaseMap=L0Jhc2VNYXAve3p9L3t4fS97eX0ucG5n; .MinMap=L0Jhc2VSZWYve3p9L3t4fS97eX0ucG5n; __RequestVerificationToken=Ycmm_wRurhK87WjKfW6YYYWVZh5D4uboytnQb3afLMjUVlJ46eGeqzyPA007mhbAbXgBlgW-Jb3OIUJ7LnQb1ozlFuFoOZvk4hbmeuQIP7s1; .Region='
+            }
+        }).then(response => {
+            console.log(`Done get GIS of areaCode: ${areaCode}`);
+            resolve({ code: areaCode, data: response.data });
+        }).catch(error => {
+            console.log(`error: ${error}`);
+            reject(error);
+        });
+    });
 }
 // Helpers
 function parsingDistrictListFromHtml(data) {
@@ -71,15 +86,16 @@ function parsingProvinceListFromHtml(data) {
 // main crawling functions
 function crawlingDistricts() {
     const provinces = JSON.parse(fs.readFileSync(PROVINCES_FILE));
-    Object.keys(provinces).forEach(provinceId => {
-        retrieveDistricts(provinceId).then(response => {
+    const allPromises = Object.keys(provinces).map(provinceId => retrieveDistricts(provinceId));
+    Promise.all(allPromises).then(responses => {
+        responses.forEach(response => {
             const districts = parsingDistrictListFromHtml(response.data);
-            provinces[provinceId].districts = districts;
-            fs.writeFileSync(PROVINCES_FILE, JSON.stringify(provinces));
-        }).catch(error => {
-            console.log(`error: ${error}`);
-        })
-    })
+            provinces[response.code].districts = districts;
+        });
+        fs.writeFileSync(PROVINCES_FILE, JSON.stringify(provinces));
+    }).catch(error => {
+        console.log(`error: ${error}`);
+    });
 }
 
 function crawlingProvinces() {
@@ -101,13 +117,14 @@ function crawlingGeoInfo() {
             areaCodes.push(districtCode);
         })
     });
-    areaCodes.forEach(areaCode => {
-        retrieveAreaGeo(areaCode).then(response => {
-            provinceGeoDB[areaCode] = response.data;
-            fs.writeFileSync(GEO_FILE, JSON.stringify(provinceGeoDB));
-        }).catch(error => {
-            console.log(`error: ${error}`);
-        })
+    const allPromises = areaCodes.map(areaCode => retrieveAreaGeo(areaCode));
+    Promise.all(allPromises).then(responses => {
+        responses.forEach(response => {
+            provinceGeoDB[response.code] = response.data;
+        });
+        fs.writeFileSync(GEO_FILE, JSON.stringify(provinceGeoDB));
+    }).catch(error => {
+        console.log(`error: ${error}`);
     });
 }
 
