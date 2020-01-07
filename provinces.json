@@ -1,0 +1,1030 @@
+{
+    "10": {
+        "name": "tỉnh Lào Cai",
+        "districts": {
+            "10080": "thành phố Lào Cai",
+            "10082": "huyện Bát Xát",
+            "10083": "huyện Mường Khương",
+            "10084": "huyện Si Ma Cai",
+            "10085": "huyện Bắc Hà",
+            "10086": "huyện Bảo Thắng",
+            "10087": "huyện Bảo Yên",
+            "10088": "huyện Sa Pa",
+            "10089": "huyện Văn Bàn"
+        }
+    },
+    "11": {
+        "name": "tỉnh Điện Biên",
+        "districts": {
+            "11094": "thành phố Điện Biên Phủ",
+            "11095": "thị xã Mường Lay",
+            "11096": "huyện Mường Nhé",
+            "11097": "huyện Mường Chà",
+            "11098": "huyện Tủa Chùa",
+            "11099": "huyện Tuần Giáo",
+            "11100": "huyện Điện Biên",
+            "11101": "huyện Điện Biên Đông",
+            "11102": "huyện Mường Ảng",
+            "11103": "huyện Nậm Pồ"
+        }
+    },
+    "12": {
+        "name": "tỉnh Lai Châu",
+        "districts": {
+            "12105": "thành phố Lai Châu",
+            "12106": "huyện Tam Đường",
+            "12107": "huyện Mường Tè",
+            "12108": "huyện Phong Thổ",
+            "12109": "huyện Sìn Hồ",
+            "12110": "huyện Than Uyên",
+            "12111": "huyện Tân Uyên",
+            "12112": "huyện Nậm Nhùn"
+        }
+    },
+    "14": {
+        "name": "tỉnh Sơn La",
+        "districts": {
+            "14116": "thành phố Sơn La",
+            "14118": "huyện Quỳnh Nhai",
+            "14119": "huyện Thuận Châu",
+            "14120": "huyện Mường La",
+            "14121": "huyện Bắc Yên",
+            "14122": "huyện Phù Yên",
+            "14123": "huyện Mộc Châu",
+            "14124": "huyện Yên Châu",
+            "14125": "huyện Mai Sơn",
+            "14126": "huyện Sông Mã",
+            "14127": "huyện Sốp Cộp",
+            "14128": "huyện Vân Hồ"
+        }
+    },
+    "15": {
+        "name": "tỉnh Yên Bái",
+        "districts": {
+            "15132": "thành phố Yên Bái",
+            "15133": "thị xã Nghĩa Lộ",
+            "15135": "huyện Lục Yên",
+            "15136": "huyện Văn Yên",
+            "15137": "huyện Mù Cang Chải",
+            "15138": "huyện Trấn Yên",
+            "15139": "huyện Trạm Tấu",
+            "15140": "huyện Văn Chấn",
+            "15141": "huyện Yên Bình"
+        }
+    },
+    "17": {
+        "name": "tỉnh Hòa Bình",
+        "districts": {
+            "17148": "thành phố Hòa Bình",
+            "17150": "huyện Đà Bắc",
+            "17151": "huyện Kỳ Sơn",
+            "17152": "huyện Lương Sơn",
+            "17153": "huyện Kim Bôi",
+            "17154": "huyện Cao Phong",
+            "17155": "huyện Tân Lạc",
+            "17156": "huyện Mai Châu",
+            "17157": "huyện Lạc Sơn",
+            "17158": "huyện Yên Thủy",
+            "17159": "huyện Lạc Thủy"
+        }
+    },
+    "19": {
+        "name": "tỉnh Thái Nguyên",
+        "districts": {
+            "19164": "thành phố Thái Nguyên",
+            "19165": "thành phố Sông Công",
+            "19167": "huyện Định Hóa",
+            "19168": "huyện Phú Lương",
+            "19169": "huyện Đồng Hỷ",
+            "19170": "huyện Võ Nhai",
+            "19171": "huyện Đại Từ",
+            "19172": "thị xã Phổ Yên",
+            "19173": "huyện Phú Bình"
+        }
+    },
+    "20": {
+        "name": "tỉnh Lạng Sơn",
+        "districts": {
+            "20178": "thành phố Lạng Sơn",
+            "20180": "huyện Tràng Định",
+            "20181": "huyện Bình Gia",
+            "20182": "huyện Văn Lãng",
+            "20183": "huyện Cao Lộc",
+            "20184": "huyện Văn Quan",
+            "20185": "huyện Bắc Sơn",
+            "20186": "huyện Hữu Lũng",
+            "20187": "huyện Chi Lăng",
+            "20188": "huyện Lộc Bình",
+            "20189": "huyện Đình Lập"
+        }
+    },
+    "22": {
+        "name": "tỉnh Quảng Ninh",
+        "districts": {
+            "22193": "thành phố Hạ Long",
+            "22194": "thành phố Móng Cái",
+            "22195": "thành phố Cẩm Phả",
+            "22196": "thành phố Uông Bí",
+            "22198": "huyện Bình Liêu",
+            "22199": "huyện Tiên Yên",
+            "22200": "huyện Đầm Hà",
+            "22201": "huyện Hải Hà",
+            "22202": "huyện Ba Chẽ",
+            "22203": "huyện Vân Đồn",
+            "22204": "huyện Hoành Bồ",
+            "22205": "thị xã Đông Triều",
+            "22206": "thị xã Quảng Yên",
+            "22207": "huyện Cô Tô"
+        }
+    },
+    "24": {
+        "name": "tỉnh Bắc Giang",
+        "districts": {
+            "24213": "thành phố Bắc Giang",
+            "24215": "huyện Yên Thế",
+            "24216": "huyện Tân Yên",
+            "24217": "huyện Lạng Giang",
+            "24218": "huyện Lục Nam",
+            "24219": "huyện Lục Ngạn",
+            "24220": "huyện Sơn Động",
+            "24221": "huyện Yên Dũng",
+            "24222": "huyện Việt Yên",
+            "24223": "huyện Hiệp Hòa"
+        }
+    },
+    "25": {
+        "name": "tỉnh Phú Thọ",
+        "districts": {
+            "25227": "thành phố Việt Trì",
+            "25228": "thị xã Phú Thọ",
+            "25230": "huyện Đoan Hùng",
+            "25231": "huyện Hạ Hòa",
+            "25232": "huyện Thanh Ba",
+            "25233": "huyện Phù Ninh",
+            "25234": "huyện Yên Lập",
+            "25235": "huyện Cẩm Khê",
+            "25236": "huyện Tam Nông",
+            "25237": "huyện Lâm Thao",
+            "25238": "huyện Thanh Sơn",
+            "25239": "huyện Thanh Thủy",
+            "25240": "huyện Tân Sơn"
+        }
+    },
+    "26": {
+        "name": "tỉnh Vĩnh Phúc",
+        "districts": {
+            "26243": "thành phố Vĩnh Yên",
+            "26244": "thành phố Phúc Yên",
+            "26246": "huyện Lập Thạch",
+            "26247": "huyện Tam Dương",
+            "26248": "huyện Tam Đảo",
+            "26249": "huyện Bình Xuyên",
+            "26251": "huyện Yên Lạc",
+            "26252": "huyện Vĩnh Tường",
+            "26253": "huyện Sông Lô"
+        }
+    },
+    "27": {
+        "name": "tỉnh Bắc Ninh",
+        "districts": {
+            "27256": "thành phố Bắc Ninh",
+            "27258": "huyện Yên Phong",
+            "27259": "huyện Quế Võ",
+            "27260": "huyện Tiên Du",
+            "27261": "thị xã Từ Sơn",
+            "27262": "huyện Thuận Thành",
+            "27263": "huyện Gia Bình",
+            "27264": "huyện Lương Tài"
+        }
+    },
+    "30": {
+        "name": "tỉnh Hải Dương",
+        "districts": {
+            "30288": "thành phố Hải Dương",
+            "30290": "thành phố Chí Linh",
+            "30291": "huyện Nam Sách",
+            "30292": "huyện Kinh Môn",
+            "30293": "huyện Kim Thành",
+            "30294": "huyện Thanh Hà",
+            "30295": "huyện Cẩm Giàng",
+            "30296": "huyện Bình Giang",
+            "30297": "huyện Gia Lộc",
+            "30298": "huyện Tứ Kỳ",
+            "30299": "huyện Ninh Giang",
+            "30300": "huyện Thanh Miện"
+        }
+    },
+    "31": {
+        "name": "thành phố Hải Phòng",
+        "districts": {
+            "31303": "quận Hồng Bàng",
+            "31304": "quận Ngô Quyền",
+            "31305": "quận Lê Chân",
+            "31306": "quận Hải An",
+            "31307": "quận Kiến An",
+            "31308": "quận Đồ Sơn",
+            "31309": "quận Dương Kinh",
+            "31311": "huyện Thủy Nguyên",
+            "31312": "huyện An Dương",
+            "31313": "huyện An Lão",
+            "31314": "huyện Kiến Thụy",
+            "31315": "huyện Tiên Lãng",
+            "31316": "huyện Vĩnh Bảo",
+            "31317": "huyện Cát Hải",
+            "31318": "huyện Bạch Long Vĩ"
+        }
+    },
+    "33": {
+        "name": "tỉnh Hưng Yên",
+        "districts": {
+            "33323": "thành phố Hưng Yên",
+            "33325": "huyện Văn Lâm",
+            "33326": "huyện Văn Giang",
+            "33327": "huyện Yên Mỹ",
+            "33328": "huyện Mỹ Hào",
+            "33329": "huyện Ân Thi",
+            "33330": "huyện Khoái Châu",
+            "33331": "huyện Kim Động",
+            "33332": "huyện Tiên Lữ",
+            "33333": "huyện Phù Cừ"
+        }
+    },
+    "34": {
+        "name": "tỉnh Thái Bình",
+        "districts": {
+            "34334": "huyện Vũ Thư",
+            "34336": "thành phố Thái Bình",
+            "34338": "huyện Quỳnh phụ",
+            "34339": "huyện Hưng Hà",
+            "34340": "huyện Đông Hưng",
+            "34341": "huyện Thái Thụy",
+            "34342": "huyện Tiền Hải",
+            "34343": "huyện Kiến Xương"
+        }
+    },
+    "35": {
+        "name": "tỉnh Hà Nam",
+        "districts": {
+            "35347": "thành phố Phủ Lý",
+            "35349": "huyện Duy Tiên",
+            "35350": "huyện Kim Bảng",
+            "35351": "huyện Thanh Liêm",
+            "35352": "huyện Bình Lục",
+            "35353": "huyện Lý Nhân"
+        }
+    },
+    "36": {
+        "name": "tỉnh Nam Định",
+        "districts": {
+            "36356": "thành phố Nam Định",
+            "36358": "huyện Mỹ Lộc",
+            "36359": "huyện Vụ Bản",
+            "36360": "huyện Ý Yên",
+            "36361": "huyện Nghĩa Hưng",
+            "36362": "huyện Nam Trực",
+            "36363": "huyện Trực Ninh",
+            "36364": "huyện Xuân Trường",
+            "36365": "huyện Giao Thủy",
+            "36366": "huyện Hải Hậu"
+        }
+    },
+    "37": {
+        "name": "tỉnh Ninh Bình",
+        "districts": {
+            "37369": "thành phố Ninh Bình",
+            "37370": "thành phố Tam Điệp",
+            "37372": "huyện Nho Quan",
+            "37373": "huyện Gia Viễn",
+            "37374": "huyện Hoa Lư",
+            "37375": "huyện Yên Khánh",
+            "37376": "huyện Kim Sơn",
+            "37377": "huyện Yên Mô"
+        }
+    },
+    "38": {
+        "name": "tỉnh Thanh Hóa",
+        "districts": {
+            "38380": "thành phố Thanh Hóa",
+            "38381": "thị xã Bỉm Sơn",
+            "38382": "thành phố Sầm Sơn",
+            "38384": "huyện Mường Lát",
+            "38385": "huyện Quan Hóa",
+            "38386": "huyện Bá Thước",
+            "38387": "huyện Quan Sơn",
+            "38388": "huyện Lang Chánh",
+            "38389": "huyện Ngọc Lặc",
+            "38390": "huyện Cẩm Thủy",
+            "38391": "huyện Thạch Thành",
+            "38392": "huyện Hà Trung",
+            "38393": "huyện Vĩnh Lộc",
+            "38394": "huyện Yên Định",
+            "38395": "huyện Thọ Xuân",
+            "38396": "huyện Thường Xuân",
+            "38397": "huyện Triệu Sơn",
+            "38398": "huyện Thiệu Hóa",
+            "38399": "huyện Hoằng Hóa",
+            "38400": "huyện Hậu Lộc",
+            "38401": "huyện Nga Sơn",
+            "38402": "huyện Như Xuân",
+            "38403": "huyện Như Thanh",
+            "38404": "huyện Nông Cống",
+            "38405": "huyện Đông Sơn",
+            "38406": "huyện Quảng Xương",
+            "38407": "huyện Tĩnh Gia"
+        }
+    },
+    "40": {
+        "name": "tỉnh Nghệ An",
+        "districts": {
+            "40412": "thành phố Vinh",
+            "40413": "thị xã Cửa Lò",
+            "40414": "thị xã Thái Hòa",
+            "40415": "huyện Quế Phong",
+            "40416": "huyện Quỳ Châu",
+            "40417": "huyện Kỳ Sơn",
+            "40418": "huyện Tương Dương",
+            "40419": "huyện Nghĩa Đàn",
+            "40420": "huyện Quỳ Hợp",
+            "40421": "huyện Quỳnh Lưu",
+            "40422": "huyện Con Cuông",
+            "40423": "huyện Tân Kỳ",
+            "40424": "huyện Anh Sơn",
+            "40425": "huyện Diễn Châu",
+            "40426": "huyện Yên Thành",
+            "40427": "huyện Đô Lương",
+            "40428": "huyện Thanh Chương",
+            "40429": "huyện Nghi Lộc",
+            "40430": "huyện Nam Đàn",
+            "40431": "huyện Hưng Nguyên",
+            "40432": "thị xã Hoàng Mai"
+        }
+    },
+    "42": {
+        "name": "tỉnh Hà Tĩnh",
+        "districts": {
+            "42436": "thành phố Hà Tĩnh",
+            "42437": "thị xã Hồng Lĩnh",
+            "42439": "huyện Hương Sơn",
+            "42440": "huyện Đức Thọ",
+            "42441": "huyện Vũ Quang",
+            "42442": "huyện Nghi Xuân",
+            "42443": "huyện Can Lộc",
+            "42444": "huyện Hương Khê",
+            "42445": "huyện Thạch Hà",
+            "42446": "huyện Cẩm Xuyên",
+            "42447": "huyện Kỳ Anh",
+            "42448": "huyện Lộc Hà",
+            "42449": "thị xã Kỳ Anh"
+        }
+    },
+    "44": {
+        "name": "tỉnh Quảng Bình",
+        "districts": {
+            "44450": "thành phố Đồng Hới",
+            "44452": "huyện Minh Hóa",
+            "44453": "huyện Tuyên Hóa",
+            "44454": "huyện Quảng Trạch",
+            "44455": "huyện Bố Trạch",
+            "44456": "huyện Quảng Ninh",
+            "44457": "huyện Lệ Thủy",
+            "44458": "thị xã Ba Đồn"
+        }
+    },
+    "45": {
+        "name": "tỉnh Quảng Trị",
+        "districts": {
+            "45461": "thành phố Đông Hà",
+            "45462": "thị xã Quảng Trị",
+            "45464": "huyện Vĩnh Linh",
+            "45465": "huyện Hướng Hóa",
+            "45466": "huyện Gio Linh",
+            "45467": "huyện ĐaKrông",
+            "45468": "huyện Cam Lộ",
+            "45469": "huyện Triệu Phong",
+            "45470": "huyện Hải Lăng",
+            "45471": "huyện Cồn Cỏ"
+        }
+    },
+    "46": {
+        "name": "tỉnh Thừa Thiên - Huế",
+        "districts": {
+            "46474": "thành phố Huế",
+            "46476": "huyện Phong Điền",
+            "46477": "huyện Quảng Điền",
+            "46478": "huyện Phú Vang",
+            "46479": "thị xã Hương Thủy",
+            "46480": "thị xã Hương Trà",
+            "46481": "huyện A Lưới",
+            "46482": "huyện Phú Lộc",
+            "46483": "huyện Nam Đông"
+        }
+    },
+    "48": {
+        "name": "thành phố Đà Nẵng",
+        "districts": {
+            "48490": "quận Liên Chiểu",
+            "48491": "quận Thanh Khê",
+            "48492": "quận Hải Châu",
+            "48493": "quận Sơn Trà",
+            "48494": "quận Ngũ Hành Sơn",
+            "48495": "quận Cẩm Lệ",
+            "48497": "huyện Hòa Vang",
+            "48498": "huyện Hoàng Sa"
+        }
+    },
+    "49": {
+        "name": "tỉnh Quảng Nam",
+        "districts": {
+            "49502": "thành phố Tam Kỳ",
+            "49503": "thành phố Hội An",
+            "49504": "huyện Tây Giang",
+            "49505": "huyện Đông Giang",
+            "49506": "huyện Đại Lộc",
+            "49507": "thị xã Điện Bàn",
+            "49508": "huyện Duy Xuyên",
+            "49509": "huyện Quế Sơn",
+            "49510": "huyện Nam Giang",
+            "49511": "huyện Phước Sơn",
+            "49512": "huyện Hiệp Đức",
+            "49513": "huyện Thăng Bình",
+            "49514": "huyện Tiên Phước",
+            "49515": "huyện Bắc Trà My",
+            "49516": "huyện Nam Trà My",
+            "49517": "huyện Núi Thành",
+            "49518": "huyện Phú Ninh",
+            "49519": "huyện Nông Sơn"
+        }
+    },
+    "51": {
+        "name": "tỉnh Quảng Ngãi",
+        "districts": {
+            "51522": "thành phố Quảng Ngãi",
+            "51524": "huyện Bình Sơn",
+            "51525": "huyện Trà Bồng",
+            "51526": "huyện Tây Trà",
+            "51527": "huyện Sơn Tịnh",
+            "51528": "huyện Tư Nghĩa",
+            "51529": "huyện Sơn Hà",
+            "51530": "huyện Sơn Tây",
+            "51531": "huyện Minh Long",
+            "51532": "huyện Nghĩa Hành",
+            "51533": "huyện Mộ Đức",
+            "51534": "huyện Đức Phổ",
+            "51535": "huyện Ba Tơ",
+            "51536": "huyện Lý Sơn"
+        }
+    },
+    "52": {
+        "name": "tỉnh Bình Định",
+        "districts": {
+            "52540": "thành phố Quy Nhơn",
+            "52542": "huyện An Lão",
+            "52543": "huyện Hoài Nhơn",
+            "52544": "huyện Hoài Ân",
+            "52545": "huyện Phù Mỹ",
+            "52546": "huyện Vính Thạnh",
+            "52547": "huyện Tây Sơn",
+            "52548": "huyện Phù Cát",
+            "52549": "thị xã An Nhơn",
+            "52550": "huyện Tuy Phước",
+            "52551": "huyện Vân Canh"
+        }
+    },
+    "54": {
+        "name": "tỉnh Phú Yên",
+        "districts": {
+            "54555": "thành phố Tuy Hòa",
+            "54557": "thị xã Sông Cầu",
+            "54558": "huyện Đồng Xuân",
+            "54559": "huyện Tuy An",
+            "54560": "huyện Sơn Hòa",
+            "54561": "huyện Sông Hinh",
+            "54562": "huyện Tây Hòa",
+            "54563": "huyện Phú Hòa",
+            "54564": "huyện Đông Hòa"
+        }
+    },
+    "56": {
+        "name": "tỉnh Khánh Hòa",
+        "districts": {
+            "56568": "thành phố Nha Trang",
+            "56569": "thành phố Cam Ranh",
+            "56570": "huyện Cam Lâm",
+            "56571": "huyện Vạn Ninh",
+            "56572": "thị xã Ninh Hòa",
+            "56573": "huyện Khánh Vĩnh",
+            "56574": "huyện Diên Khánh",
+            "56575": "huyện Khánh Sơn",
+            "56576": "huyện Trường Sa"
+        }
+    },
+    "58": {
+        "name": "tỉnh Ninh Thuận",
+        "districts": {
+            "58582": "thành phố Phan Rang - Tháp Chàm",
+            "58584": "huyện Bác Ái",
+            "58585": "huyện Ninh Sơn",
+            "58586": "huyện Ninh Hải",
+            "58587": "huyện Ninh Phước",
+            "58588": "huyện Thuận Bắc",
+            "58589": "huyện Thuận Nam"
+        }
+    },
+    "60": {
+        "name": "tỉnh Bình Thuận",
+        "districts": {
+            "60593": "thành phố Phan Thiết",
+            "60594": "thị xã La Gi",
+            "60595": "huyện Tuy Phong",
+            "60596": "huyện Bắc Bình",
+            "60597": "huyện Hàm Thuận Bắc",
+            "60598": "huyện Hàm Thuận Nam",
+            "60599": "huyện Tánh Linh",
+            "60600": "huyện Đức Linh",
+            "60601": "huyện Hàm Tân",
+            "60602": "huyện Phú Quý"
+        }
+    },
+    "62": {
+        "name": "tỉnh Kon Tum",
+        "districts": {
+            "62608": "thành phố Kon Tum",
+            "62610": "huyện Đắk Glei",
+            "62611": "huyện Ngọc Hồi",
+            "62612": "huyện Đắk Tô",
+            "62613": "huyện Kon Plông",
+            "62614": "huyện Kon Rẫy",
+            "62615": "huyện Đắk Hà",
+            "62616": "huyện Sa Thầy",
+            "62617": "huyện Tu Mơ Rông",
+            "62618": "huyện Ia H'Drai"
+        }
+    },
+    "64": {
+        "name": "tỉnh Gia Lai",
+        "districts": {
+            "64622": "thành phố Pleiku",
+            "64623": "thị xã An Khê",
+            "64624": "thị xã Ayun Pa",
+            "64625": "huyện Kbang",
+            "64626": "huyện Đăk Đoa",
+            "64627": "huyện Chư Păh",
+            "64628": "huyện Ia Grai",
+            "64629": "huyện Mang Yang",
+            "64630": "huyện Kông Chro",
+            "64631": "huyện Đức Cơ",
+            "64632": "huyện Chư Prông",
+            "64633": "huyện Chư Sê",
+            "64634": "huyện Đăk Pơ",
+            "64635": "huyện Ia Pa",
+            "64637": "huyện Krông Pa",
+            "64638": "huyện Phú Thiện",
+            "64639": "huyện Chư Pưh"
+        }
+    },
+    "66": {
+        "name": "tỉnh Đắk Lắk",
+        "districts": {
+            "66643": "thành phố Buôn Ma Thuột",
+            "66644": "thị xã Buôn Hồ",
+            "66645": "huyện Ea H'Leo",
+            "66646": "huyện Ea Súp",
+            "66647": "huyện Buôn Đôn",
+            "66648": "huyện Cư M'Gar",
+            "66649": "huyện Krông Búk",
+            "66650": "huyện Krông Năng",
+            "66651": "huyện Ea Kar",
+            "66652": "huyện M'Drắk",
+            "66653": "huyện Krông Bông",
+            "66654": "huyện Krông Pắk",
+            "66655": "huyện Krông Ana",
+            "66656": "huyện Lắk",
+            "66657": "huyện Cư Kuin"
+        }
+    },
+    "67": {
+        "name": "tỉnh Đắk Nông",
+        "districts": {
+            "67660": "thị xã Gia Nghĩa",
+            "67661": "huyện Đắk Glong",
+            "67662": "huyện Cư Jút",
+            "67663": "huyện Đắk Mil",
+            "67664": "huyện Krông Nô",
+            "67665": "huyện Đắk Song",
+            "67666": "huyện Đắk R'Lấp",
+            "67667": "huyện Tuy Đức"
+        }
+    },
+    "68": {
+        "name": "tỉnh Lâm Đồng",
+        "districts": {
+            "68672": "thành phố Đà Lạt",
+            "68673": "thành phố Bảo Lộc",
+            "68674": "huyện Đam Rông",
+            "68675": "huyện Lạc Dương",
+            "68676": "huyện Lâm Hà",
+            "68677": "huyện Đơn Dương",
+            "68678": "huyện Đức Trọng",
+            "68679": "huyện Di Linh",
+            "68680": "huyện Bảo Lâm",
+            "68681": "huyện Đạ Huoai",
+            "68682": "huyện Đạ Tẻh",
+            "68683": "huyện Cát Tiên"
+        }
+    },
+    "70": {
+        "name": "tỉnh Bình Phước",
+        "districts": {
+            "70688": "thị xã Phước Long",
+            "70689": "thành phố Đồng Xoài",
+            "70690": "thị xã Bình Long",
+            "70691": "huyện Bù Gia  Mập",
+            "70692": "huyện Lộc Ninh",
+            "70693": "huyện Bù Đốp",
+            "70694": "huyện Hớn Quản",
+            "70695": "huyện Đồng Phú",
+            "70696": "huyện Bù Đăng",
+            "70697": "huyện Chơn Thành",
+            "70698": "huyện Phú Riềng"
+        }
+    },
+    "72": {
+        "name": "tỉnh Tây Ninh",
+        "districts": {
+            "72703": "thành phố Tây Ninh",
+            "72705": "huyện Tân Biên",
+            "72706": "huyện Tân Châu",
+            "72707": "huyện Dương Minh Châu",
+            "72708": "huyện Châu Thành",
+            "72709": "huyện Hòa Thành",
+            "72710": "huyện Gò Dầu",
+            "72711": "huyện Bến Cầu",
+            "72712": "huyện Trảng Bàng"
+        }
+    },
+    "74": {
+        "name": "tỉnh Bình Dương",
+        "districts": {
+            "74718": "thành phố Thủ Dầu Một",
+            "74719": "huyện Bàu Bàng",
+            "74720": "huyện Dầu Tiếng",
+            "74721": "thị xã Bến Cát",
+            "74722": "huyện Phú Giáo",
+            "74723": "huyện Bắc Tân Uyên",
+            "74724": "thị xã Dĩ An",
+            "74725": "thị xã Thuận An",
+            "74726": "thị xã Tân Uyên"
+        }
+    },
+    "75": {
+        "name": "tỉnh Đồng Nai",
+        "districts": {
+            "75731": "thành phố Biên Hòa",
+            "75732": "thị xã Long Khánh",
+            "75734": "huyện Tân Phú",
+            "75735": "huyện Vĩnh Cửu",
+            "75736": "huyện Định Quán",
+            "75737": "huyện Trảng Bom",
+            "75738": "huyện Thống Nhất",
+            "75739": "huyện Cẩm Mỹ",
+            "75740": "huyện Long Thành",
+            "75741": "huyện Xuân Lộc",
+            "75742": "huyện Nhơn Trạch"
+        }
+    },
+    "77": {
+        "name": "tỉnh Bà Rịa - Vũng Tàu",
+        "districts": {
+            "77747": "thành phố Vũng Tàu",
+            "77748": "thành phố Bà Rịa",
+            "77750": "huyện Châu Đức",
+            "77751": "huyện Xuyên Mộc",
+            "77752": "huyện Long Điền",
+            "77753": "huyện Đất Đỏ",
+            "77754": "huyện Tân Thành",
+            "77755": "huyện Côn Đảo"
+        }
+    },
+    "79": {
+        "name": "thành phố Hồ Chí Minh",
+        "districts": {
+            "79760": "quận 1",
+            "79761": "quận 12",
+            "79762": "quận Thủ Đức",
+            "79763": "quận 9",
+            "79764": "quận Gò Vấp",
+            "79765": "quận Bình Thạnh",
+            "79766": "quận Tân Bình",
+            "79767": "quận Tân Phú",
+            "79768": "quận Phú Nhuận",
+            "79769": "quận 2",
+            "79770": "quận 3",
+            "79771": "quận 10",
+            "79772": "quận 11",
+            "79773": "quận 4",
+            "79774": "quận 5",
+            "79775": "quận 6",
+            "79776": "quận 8",
+            "79777": "quận Bình Tân",
+            "79778": "quận 7",
+            "79783": "huyện Củ Chi",
+            "79784": "huyện Hóc Môn",
+            "79785": "huyện Bình Chánh",
+            "79786": "huyện Nhà Bè",
+            "79787": "huyện Cần Giờ"
+        }
+    },
+    "80": {
+        "name": "tỉnh Long An",
+        "districts": {
+            "80794": "thành phố Tân An",
+            "80795": "thị xã Kiến Tường",
+            "80796": "huyện Tân Hưng",
+            "80797": "huyện Vĩnh Hưng",
+            "80798": "huyện Mộc Hóa",
+            "80799": "huyện Tân Thạnh",
+            "80800": "huyện Thạnh Hóa",
+            "80801": "huyện Đức Huệ",
+            "80802": "huyện Đức Hòa",
+            "80803": "huyện Bến Lức",
+            "80804": "huyện Thủ Thừa",
+            "80805": "huyện Tân Trụ",
+            "80806": "huyện Cần Đước",
+            "80807": "huyện Cần Giuộc",
+            "80808": "huyện Châu Thành"
+        }
+    },
+    "82": {
+        "name": "tỉnh Tiền Giang",
+        "districts": {
+            "82815": "thành phố Mỹ Tho",
+            "82816": "thị xã Gò Công",
+            "82817": "thị xã Cai Lậy",
+            "82818": "huyện Tân Phước",
+            "82819": "huyện Cái  Bè",
+            "82820": "huyện Cai Lậy",
+            "82821": "huyện Châu Thành",
+            "82822": "huyện Chợ Gạo",
+            "82823": "huyện Gò Công Tây",
+            "82824": "huyện Gò Công Đông",
+            "82825": "huyện Tân Phú Đông"
+        }
+    },
+    "83": {
+        "name": "tỉnh Bến Tre",
+        "districts": {
+            "83829": "thành phố Bến Tre",
+            "83831": "huyện Châu Thành",
+            "83832": "huyện Chợ Lách",
+            "83833": "huyện Mỏ Cày Nam",
+            "83834": "huyện Giồng Trôm",
+            "83835": "huyện Bình Đại",
+            "83836": "huyện Ba Tri",
+            "83837": "huyện Thạnh Phú",
+            "83838": "huyện Mỏ Cày Bắc"
+        }
+    },
+    "84": {
+        "name": "tỉnh Trà Vinh",
+        "districts": {
+            "84842": "thành phố Trà Vinh",
+            "84844": "huyện Càng Long",
+            "84845": "huyện Cầu Kè",
+            "84846": "huyện Tiểu Cần",
+            "84847": "huyện Châu Thành",
+            "84848": "huyện Cầu Ngang",
+            "84849": "huyện Trà Cú",
+            "84850": "huyện Duyên Hải",
+            "84851": "thị xã Duyên Hải"
+        }
+    },
+    "85": {
+        "name": "tỉnh Vĩnh Long",
+        "districts": {
+            "85855": "thành phố Vĩnh Long",
+            "85857": "huyện Long Hồ",
+            "85858": "huyện Mang Thít",
+            "85859": "huyện Vũng Liêm",
+            "85860": "huyện Tam Bình",
+            "85861": "thị xã Bình Minh",
+            "85862": "huyện Trà Ôn",
+            "85863": "huyện Bình Tân"
+        }
+    },
+    "87": {
+        "name": "tỉnh Đồng Tháp",
+        "districts": {
+            "87866": "thành phố Cao Lãnh",
+            "87867": "thành phố Sa Đéc",
+            "87868": "thị xã Hồng Ngự",
+            "87869": "huyện Tân Hồng",
+            "87870": "huyện Hồng Ngự",
+            "87871": "huyện Tam Nông",
+            "87872": "huyện Tháp Mười",
+            "87873": "huyện Cao Lãnh",
+            "87874": "huyện Thanh  Bình",
+            "87875": "huyện Lấp Vò",
+            "87876": "huyện Lai Vung",
+            "87877": "huyện Châu Thành"
+        }
+    },
+    "89": {
+        "name": "tỉnh An Giang",
+        "districts": {
+            "89883": "thành phố Long Xuyên",
+            "89884": "thành phố Châu Đốc",
+            "89886": "huyện An Phú",
+            "89887": "thị xã Tân Châu",
+            "89888": "huyện Phú Tân",
+            "89889": "huyện Châu Phú",
+            "89890": "huyện Tịnh Biên",
+            "89891": "huyện Tri Tôn",
+            "89892": "huyện Châu Thành",
+            "89893": "huyện Chợ Mới",
+            "89894": "huyện Thoại Sơn"
+        }
+    },
+    "91": {
+        "name": "tỉnh Kiên Giang",
+        "districts": {
+            "91899": "thành phố Rạch Giá",
+            "91900": "thành phố Hà Tiên",
+            "91902": "huyện Kiên Lương",
+            "91903": "huyện Hòn Đất",
+            "91904": "huyện Tân Hiệp",
+            "91905": "huyện Châu Thành",
+            "91906": "huyện Giồng Riềng",
+            "91907": "huyện Gò Quao",
+            "91908": "huyện An Biên",
+            "91909": "huyện An Minh",
+            "91910": "huyện Vĩnh Thuận",
+            "91911": "huyện Phú Quốc",
+            "91912": "huyện Kiên Hải",
+            "91913": "huyện U Minh Thượng",
+            "91914": "huyện Giang Thành"
+        }
+    },
+    "92": {
+        "name": "thành phố Cần Thơ",
+        "districts": {
+            "92916": "quận Ninh Kiều",
+            "92917": "quận Ô Môn",
+            "92918": "quận Bình Thủy",
+            "92919": "quận Cái Răng",
+            "92923": "quận Thốt Nốt",
+            "92924": "huyện Vĩnh Thạnh",
+            "92925": "huyện Cờ Đỏ",
+            "92926": "huyện Phong Điền",
+            "92927": "huyện Thới Lai"
+        }
+    },
+    "93": {
+        "name": "tỉnh Hậu Giang",
+        "districts": {
+            "93930": "thành phố Vị Thanh",
+            "93931": "thị xã Ngã Bảy",
+            "93932": "huyện Châu Thành A",
+            "93933": "huyện Châu Thành",
+            "93934": "huyện Phụng Hiệp",
+            "93935": "huyện Vị  Thủy",
+            "93936": "huyện Long Mỹ",
+            "93937": "thị xã Long Mỹ"
+        }
+    },
+    "94": {
+        "name": "tỉnh Sóc Trăng",
+        "districts": {
+            "94941": "thành phố Sóc Trăng",
+            "94942": "huyện Châu Thành",
+            "94943": "huyện Kế Sách",
+            "94944": "huyện Mỹ Tú",
+            "94945": "huyện Cù Lao Dung",
+            "94946": "huyện Long Phú",
+            "94947": "huyện Mỹ Xuyên",
+            "94948": "thị xã Ngã Năm",
+            "94949": "huyện Thạnh Trị",
+            "94950": "thị xã Vĩnh Châu",
+            "94951": "huyện Trần Đề"
+        }
+    },
+    "95": {
+        "name": "tỉnh Bạc Liêu",
+        "districts": {
+            "95954": "thành phố Bạc Liêu",
+            "95956": "huyện Hồng Dân",
+            "95957": "huyện Phước Long",
+            "95958": "huyện Vĩnh Lợi",
+            "95959": "thị xã Giá Rai",
+            "95960": "huyện Đông Hải",
+            "95961": "huyện Hòa Bình"
+        }
+    },
+    "96": {
+        "name": "tỉnh Cà Mau",
+        "districts": {
+            "96964": "thành phố Cà Mau",
+            "96966": "huyện U Minh",
+            "96967": "huyện Thới Bình",
+            "96968": "huyện Trần Văn Thời",
+            "96969": "huyện Cái Nước",
+            "96970": "huyện Đầm Dơi",
+            "96971": "huyện Năm Căn",
+            "96972": "huyện Phú Tân",
+            "96973": "huyện Ngọc Hiển"
+        }
+    },
+    "06": {
+        "name": "tỉnh Bắc Kạn",
+        "districts": {
+            "06058": "thành phố Bắc Kạn",
+            "06061": "huyện Ba Bể",
+            "06063": "huyện Bạch Thông",
+            "06064": "huyện Chợ Đồn",
+            "06065": "huyện Chợ Mới",
+            "06066": "huyện Na Rì",
+            "06062": "huyện Ngân Sơn",
+            "06060": "huyện Pác Nặm"
+        }
+    },
+    "04": {
+        "name": "tỉnh Cao Bằng",
+        "districts": {
+            "04040": "thành phố Cao Bằng",
+            "04043": "huyện Bảo Lạc",
+            "04042": "huyện Bảo Lâm",
+            "04048": "huyện Hạ Lang",
+            "04045": "huyện Hà Quảng",
+            "04051": "huyện Hòa An",
+            "04052": "huyện Nguyên Bình",
+            "04050": "huyện Phục Hòa",
+            "04049": "huyện Quảng Uyên",
+            "04053": "huyện Thạch An",
+            "04044": "huyện Thông Nông",
+            "04046": "huyện Trà Lĩnh",
+            "04047": "huyện Trùng Khánh"
+        }
+    },
+    "02": {
+        "name": "tỉnh Hà Giang",
+        "districts": {
+            "02024": "thành phố Hà Giang",
+            "02031": "huyện Bắc Mê",
+            "02034": "huyện Bắc Quang",
+            "02026": "huyện Đồng Văn",
+            "02032": "huyện Hoàng Su Phì",
+            "02027": "huyện Mèo Vạc",
+            "02029": "huyện Quản Bạ",
+            "02035": "huyện Quang Bình",
+            "02030": "huyện Vị Xuyên",
+            "02033": "huyện Xín Mần",
+            "02028": "huyện Yên Minh"
+        }
+    },
+    "01": {
+        "name": "thành phố Hà Nội",
+        "districts": {
+            "01001": "quận Ba Đình",
+            "01021": "quận Bắc Từ Liêm",
+            "01005": "quận Cầu Giấy",
+            "01006": "quận Đống Đa",
+            "01268": "quận Hà Đông",
+            "01007": "quận Hai Bà Trưng",
+            "01002": "quận Hoàn Kiếm",
+            "01008": "quận Hoàng Mai",
+            "01004": "quận Long Biên",
+            "01019": "quận Nam Từ Liêm",
+            "01003": "quận Tây Hồ",
+            "01009": "quận Thanh Xuân",
+            "01269": "thị xã Sơn Tây",
+            "01271": "huyện Ba Vì",
+            "01277": "huyện Chương Mỹ",
+            "01273": "huyện Đan Phượng",
+            "01017": "huyện Đông Anh",
+            "01018": "huyện Gia Lâm",
+            "01274": "huyện Hoài Đức",
+            "01250": "huyện Mê Linh",
+            "01282": "huyện Mỹ Đức",
+            "01280": "huyện Phú Xuyên",
+            "01272": "huyện Phúc Thọ",
+            "01275": "huyện Quốc Oai",
+            "01016": "huyện Sóc Sơn",
+            "01276": "huyện Thạch Thất",
+            "01278": "huyện Thanh Oai",
+            "01020": "huyện Thanh Trì",
+            "01279": "huyện Thường Tín",
+            "01281": "huyện Ứng Hòa"
+        }
+    },
+    "08": {
+        "name": "tỉnh Tuyên Quang",
+        "districts": {
+            "08070": "thành phố Tuyên Quang",
+            "08073": "huyện Chiêm Hóa",
+            "08074": "huyện Hàm Yên",
+            "08071": "huyện Lâm Bình",
+            "08072": "huyện Na Hang",
+            "08076": "huyện Sơn Dương",
+            "08075": "huyện Yên Sơn"
+        }
+    }
+}
