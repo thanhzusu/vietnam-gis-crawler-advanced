@@ -113,9 +113,9 @@ function crawlingGeoInfo() {
     const areaCodes = [];
     Object.keys(provinces).forEach(provinceCode => {
         areaCodes.push(provinceCode);
-        Object.keys(provinces[provinceCode]).forEach(districtCode => {
+        Object.keys(provinces[provinceCode].districts).forEach(districtCode => {
             areaCodes.push(districtCode);
-        })
+        });
     });
     const allPromises = areaCodes.map(areaCode => retrieveAreaGeo(areaCode));
     Promise.all(allPromises).then(responses => {
